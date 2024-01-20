@@ -1,10 +1,10 @@
 var colorIndex = 0;
-var colors = ["#2E4F4F", "#F8E559"]; 
-var colors2 = ['#CBE4DE', "#FAEF9B"]; 
+var colors = ["#294B29", "#E6A4B4"]; 
+var colors2 = ['#DBE7C9', "#F5EEE6"]; 
 
 function Magicchange() {
     const body = document.body;
-    var leftSide = document.querySelector('.container .left_Side');
+    var leftSide = document.querySelector('.container .right_Side');
     var titlesec = document.querySelector('.titlesec');
 
     // Generate random RGB values for background color

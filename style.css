@@ -8,7 +8,7 @@
 
 body
 {
-   background: #498042;
+   background: #e36121;
    display: flex;
     justify-content: center;
     align-items:center;
@@ -32,7 +32,7 @@ body
 .container .left_Side
 {
     position: relative;
-    background: #8dd883;
+    background: #ecdfd0;
     padding: 40px;
     transition: background-color 0.5s;
 } 
